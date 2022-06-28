@@ -1,0 +1,21 @@
+.card {
+  max-width: 100%;
+  min-height: 430px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.media {
+  height: 220px;
+}
+
+.cardActions {
+  display: flex;
+  margin: 0 10px;
+  justify-content: space-between;
+}
+
+.author {
+  display: flex;
+}
